@@ -17,3 +17,6 @@ Should run the CNN_final.ipynb file and save the model as ".h5" file , then load
 
 Front End is done using Streamlit
 
+Dataset Link : https://www.kaggle.com/datasets/arunrk7/surface-crack-detection?resource=download
+
+
